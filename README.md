@@ -1,5 +1,3 @@
-![OSF APAC Thumbnail](https://github.com/user-attachments/assets/1d03d711-8ef3-4a69-9f60-819caa1ef20a)
-
 ## Open Source Friday APAC - Live Stream Event ✨
 _Every Friday at 4 PM IST | 6.30 PM SGT_
 
