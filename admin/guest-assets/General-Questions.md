@@ -17,6 +17,7 @@ Official start time is: 4:00 PM IST / 6:30 PM SGT. Please try to join 10-15 minu
 - How can people contribute to your project?
 - Any advice for folks who would like to gain more contributors, sponsors, and users for their open source projects?
 - Are there any questions from the audience?
+
 #### Wrap up questions (non-technical):
 - What is the first programming language that you learned
 - If money wasn’t an issue, how would you ideally spend your time? Job wise or not job wise?
@@ -25,7 +26,6 @@ Official start time is: 4:00 PM IST / 6:30 PM SGT. Please try to join 10-15 minu
 - What emoji best describes you?
 - What is your favorite ice cream flavor?
 - GIF - hard G or soft G?
-- Fave beyonce song?
 - What is your favorite thing about open source?
 
 End of stream..shouldn’t last more than 45 minutes
