@@ -1,7 +1,7 @@
 Thank you for agreeing to speak about your project on Open Source Friday! I really appreciate you taking the time to be a part of the discussion, and I’m very excited to hear your story and showcase your project! It’s really going to help a lot of folks!
 
 # Streaming Guide for Guests 
-All interviews are streamed live on the [GitHub Twitch Channel](https://twitch.tv/GitHub) (using Streamyard) and get edited to live on Youtube as shareable content. 
+All interviews are streamed live on the [GitHub YouTube Channel](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P) (using Streamyard) and get edited to live on Youtube as shareable content. 
 
 [Previous OSF Recordings](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P)
 
