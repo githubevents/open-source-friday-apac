@@ -11,24 +11,9 @@ We will use streamyard to stream on Twitch.
 
 **Multiple remote guests will need to have separate mics and headphones to cut down on room noise.** 
 
-## Format and example questions: 
+Check [General Questions](https://github.com/githubevents/open-source-friday-apac/blob/main/admin/guest-assets/General-Questions.md) for format and example questions.
 
-The stream will be a laid back format:
-
-1. Introduce yourself  - 5 minutes
-2. What is your project?
-3. Demo - 5-10 minutes (What does it do? Do you have an example/hello-world?)
-5. What was your motivation for building your project or how did this project started? 
-6. How can people contribute?
-7. What was the last thing you pushed to using GitHub? Or What is the next thing you would like to push?
-8. Are there any questions from the audience?
-### Wrap up questions
-- What is your best tip for new contributors?
-- What's your favorite song of all time?
-- What emoji best describes you?
-- What is your favorite ice cream flavor?
-
-### Goodbye – whole stream shouldn’t last more than 30-45 minutes
+The whole stream shouldn’t last more than 30-45 minutes
 
 ## General Interview Guidelines:
 
