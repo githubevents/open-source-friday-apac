@@ -1,7 +1,7 @@
 Joining the Stream
 You can join the stream from this link:
 
-Official start time is: 1:00 pm ET. Please try to join 10-15 minutes (12:45 or so) before so we can test audio, video, and screensharing.
+Official start time is: 4:00 PM IST / 6:30 PM SGT. Please try to join 10-15 minutes (3:45 IST or so) before so we can test audio, video, and screensharing.
 
 ## Format
 
