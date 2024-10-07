@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         ## Open Source Friday Guest Invite Form
-        #### :sparkles: Please submit the following information to be invited to Open Source Friday. The stream occurs weekly at 1pm EST on the [GitHub YouTube Channel](https://www.youtube.com/github). :sparkles:
+        #### :sparkles: Please submit the following information to be invited to Open Source Friday. The stream occurs every Friday at 4 PM IST / 6.30 PM SGT on the [GitHub YouTube Channel](https://www.youtube.com/github). :sparkles:
 
   - type: input
     id: name
